@@ -48,7 +48,7 @@ script.js
 
 ## 👩‍💻 Author
 ```
-**Harshitha KG**
+Harshitha KG
 Aspiring Full Stack Developer
 harshithakg09@gmail.com 
 linkedin.com/in/harshithakg09
