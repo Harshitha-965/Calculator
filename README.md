@@ -49,10 +49,11 @@ script.js
 ## 👩‍💻 Author
 
 **Harshitha KG**
+```
 Aspiring Full Stack Developer
 harshithakg09@gmail.com 
 linkedin.com/in/harshithakg09
-
+```
 ---
 
 ⭐ Feel free to explore and give a star if you like it!
